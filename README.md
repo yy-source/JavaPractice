@@ -1,6 +1,6 @@
 ## JavaPractice
 
-###Revision on core java concepts
+###Revision of core java concepts
   1. Object-oriented programming 29-05-2020
   2. The Java ecosystem
   3. Concurrency and multithreading
